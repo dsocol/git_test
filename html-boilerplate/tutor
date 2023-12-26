@@ -1,3 +1,11 @@
 Moving around with h = left, l = right, j = down, k = up. 
 Use 'i' to insert text.
 Use 'a' to append text.
+0 (zero) to go at the begining of the line
+d to delete: w a word e to the end of the current word
+d$ to delete to the end of the line from current cursor position.
+d2w will delete two words
+dd will dele curent line
+2dd delete two lines
+u to undo once and U to undo the whole line also C-r (Ctrl+r) to redo
+
